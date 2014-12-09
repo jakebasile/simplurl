@@ -20,7 +20,7 @@ Don't use this.
 
 ## Docs
 
-You can get some cool HTML docs via `lein marg`.
+You can get some cool HTML docs via `lein marg` or [read them online][docs].
 
 ## License
 
@@ -31,4 +31,5 @@ Licensed under the Simplified BSD License.
 [lein]: http://leiningen.org
 [Datomic]: http://datomic.com
 [Marginalia]: http://gdeer81.github.io/marginalia/
+[docs]: http://jkbsl.org/simplurl
 
