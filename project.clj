@@ -1,6 +1,6 @@
-(defproject simplurl "0.1.0-SNAPSHOT"
+(defproject jakebasile/simplurl "0.1.0-SNAPSHOT"
   :description "A stupid URL shortener thing."
-  :url "https://jkbsl.org/simplurl"
+  :url "https://jakebasile.com/simplurl"
   :license {:name "Simplified BSD"
             :url "http://opensource.org/licenses/BSD-2-Clause"}
   :dependencies [[org.clojure/clojure "1.6.0"]
