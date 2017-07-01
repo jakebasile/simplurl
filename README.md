@@ -9,7 +9,7 @@ It doesn't have a UI. I used curl.
 You need [`lein`][lein].
 
 ```bash
-git clone https://github.com/jkbsl/simplurl.git
+git clone https://gitlab.com/jakebasile/simplurl.git
 cd simplurl
 lein ring server-headless
 ```
@@ -20,16 +20,10 @@ Don't use this.
 
 ## Docs
 
-You can get some cool HTML docs via `lein marg` or [read them online][docs].
+You can get some cool HTML docs via `lein marg`.
 
-## License
-
-Copyright © 2014 Jake Basile
-
-Licensed under the Simplified BSD License.
 
 [lein]: http://leiningen.org
 [Datomic]: http://datomic.com
 [Marginalia]: http://gdeer81.github.io/marginalia/
-[docs]: http://jkbsl.org/simplurl
 
