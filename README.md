@@ -9,7 +9,7 @@ It doesn't have a UI. I used curl.
 You need [`lein`][lein].
 
 ```bash
-git clone https://gitlab.com/jakebasile/simplurl.git
+git clone https://github.com/jakebasile/simplurl.git
 cd simplurl
 lein ring server-headless
 ```
